@@ -4,6 +4,8 @@ import Features from './Components/FeaturesFolder/Features'
 import Footer from './Components/FotterFolder/Fotter'
 import Hero from './Components/HeroFolder/Hero'
 import Navbar from './Components/NavbarFolder/Navbar'
+import Navv from './Components/Navv'
+
 import Offers from './Components/OffersFolder/Offers'
 import Steps from './Components/StepsFolder/Steps'
 // import qrcFold from './Components/qrFolder/qrcFold'
@@ -11,8 +13,9 @@ import Steps from './Components/StepsFolder/Steps'
 const App = () => {
   return (
     <div>
-      <Navbar />
-      <Hero />
+      {/* <Navbar />
+      <Hero /> */}
+      <Navv />
       <Features />
       <Steps />
       <Offers />
