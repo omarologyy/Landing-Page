@@ -9,17 +9,17 @@ const Blog = () => {
     {
       id: 1,
       title: 'How to Navigate International Payments for Education With Ease',
-      image: { blog1 },
+      image: blog1,
     },
     {
       id: 2,
       title: 'Importance of getting Insurance before traveling',
-      image: { blog2 },
+      image: blog2,
     },
     {
       id: 3,
       title: 'Overcoming Challenges in Foreign Currency Tuition Payments',
-      image: { blog3 },
+      image: blog3,
     },
   ]
 
