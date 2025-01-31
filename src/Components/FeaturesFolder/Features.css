@@ -1,35 +1,3 @@
-/* .features-container {
-  margin: 0 auto;
-  padding: 0;
-  background-image: url('../../Images/featuresBackground.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100%;
-}
-
-.features-header .features-title {
-  font-size: 2rem;
-  font-weight: bold;
-}
-.light {
-  margin: 0;
-  padding: 16px 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 109px;
-  height: 30px;
-  background-color: #e9f8d8;
-  border-radius: 32px;
-  font-size: 14px;
-  color: #333;
-  cursor: pointer;
-  gap: 8px;
-} */
-
-/* Features Section */
 .features-section {
   background-image: url('../../Images/featuresBackground.jpg');
   background-size: cover;
@@ -75,10 +43,10 @@
 }
 
 .feature-card {
-  display: flex; /* Enable flexbox */
-  flex-direction: column; /* Arrange children vertically */
-  justify-content: space-between; /* Space out children evenly */
-  align-items: center; /* Center content horizontally */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
   background-color: #ffffff;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -121,28 +89,6 @@
   background-color: #afe274;
   border-radius: 33px;
   padding: 0 20px;
-  margin-top: auto; /* Ensures the button is pushed to the bottom */
+  margin-top: auto;
   cursor: pointer;
 }
-/* .download-button {
-  background-color: #4caf50;
-  color: #ffffff;
-  border: none;
-  border-radius: 50px;
-  padding: 0.5rem 1.5rem;
-  font-size: 0.9rem;
-  font-weight: bold;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  transition: background-color 0.3s ease;
-} */
-/* 
-.download-button:hover {
-  background-color: #43a047;
-}
-
-.download-button .arrow {
-  font-size: 1.2rem;
-} */

@@ -1,19 +1,3 @@
-// import './Features.css'
-// // import featureIcon from '../../Icons/featureIcon.svg'
-
-// const Features = () => {
-//   return (
-//     <section className="features-container">
-//       <div className="features-header">
-//         <button type="button" className="light">
-//           <img src={lIcon} /> FEATURES
-//         </button>
-//         <h2 className="features-title">What truly Sets Us Apart</h2>
-//       </div>
-//     </section>
-//   )
-// }
-// export default Features
 import barcode from '../../Icons/barcodeIcon.svg'
 import fIcon1 from '../../Icons/featureIcon1.svg'
 import fIcon2 from '../../Icons/featureIcon2.svg'

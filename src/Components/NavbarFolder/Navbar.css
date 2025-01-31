@@ -32,31 +32,11 @@
   display: flex;
   gap: 20px;
 }
-/* .nav-links::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  height: 2px;
-  width: 0;
-  transition: 0.2s;
-}
 
-.nav-links:hover::after,
-.nav-links:focus::after {
-  background-color: #a4c47d;
-  width: 50%;
-} */
-
-/* .nav-links li:hover {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-} */
 .btnIcon {
-  display: flex; /* Align text and image */
-  align-items: center; /* Vertical alignment */
-  justify-content: center; /* Center horizontally */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 219px;
   height: 54px;
   gap: 12px;

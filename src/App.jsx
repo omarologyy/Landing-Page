@@ -6,7 +6,7 @@ import Hero from './Components/HeroFolder/Hero'
 import Navbar from './Components/NavbarFolder/Navbar'
 import Offers from './Components/OffersFolder/Offers'
 import Steps from './Components/StepsFolder/Steps'
-import qrcFold from './Components/qrFolder/qrF'
+// import qrcFold from './Components/qrFolder/qrcFold'
 
 const App = () => {
   return (
@@ -18,8 +18,8 @@ const App = () => {
       <Offers />
       <Faq />
       <Blog />
-      <Footer />
       <qrcFold />
+      <Footer />
     </div>
   )
 }

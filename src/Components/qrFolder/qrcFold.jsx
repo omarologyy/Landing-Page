@@ -1,4 +1,4 @@
-import './qrF.css'
+import './qrcFold.css'
 import qrc from '../../Images/qrc.jpg'
 import apps from '../../Icons/apps.svg'
 import appStore from '../../Icons/appStore.svg'

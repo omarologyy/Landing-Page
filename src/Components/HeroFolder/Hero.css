@@ -2,21 +2,21 @@
   margin: auto;
   padding: 50px;
   display: flex;
-  flex-direction: column; /* Stack items vertically */
-  align-items: center; /* Center items horizontally */
+  flex-direction: column;
+  align-items: center;
   width: 100%;
-  text-align: center; /* Center-align the content */
+  text-align: center;
 }
 
 .hero-button {
-  margin-bottom: 20px; /* Add spacing between the button and text */
+  margin-bottom: 20px;
 }
 
 .lightIcon {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: auto; /* Adjust to fit content */
+  width: auto;
   padding: 10px 20px;
   background-color: #e9f8d8;
   border-radius: 32px;
@@ -29,7 +29,7 @@
 }
 
 .hero-text h1 {
-  font-size: 2.5rem; /* Make it prominent */
+  font-size: 2.5rem;
   font-weight: bold;
   max-width: 920px;
   line-height: 1.4;
@@ -63,7 +63,7 @@
 
 @media (max-width: 768px) {
   .hero-text h1 {
-    font-size: 1.8rem; /* Adjust font size for smaller screens */
+    font-size: 1.8rem;
     line-height: 1.3;
   }
 }
