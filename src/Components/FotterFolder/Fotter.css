@@ -1,0 +1,99 @@
+.footer-container {
+  background-color: #f8f9fa;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-logo-section {
+  text-align: left;
+}
+
+.footer-logo {
+  width: 150px;
+  margin-bottom: 10px;
+}
+.support {
+  display: flex;
+  gap: 10px;
+}
+
+.support-email {
+  font-size: 14px;
+  color: #666;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+}
+
+.social-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.footer-links {
+  display: flex;
+  gap: 40px;
+}
+
+.footer-links div h4 {
+  margin-bottom: 10px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  margin-bottom: 8px;
+}
+
+.footer-links ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.footer-apps {
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.store-button {
+  display: flex;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.store-button .icon {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.app-description {
+  font-size: 14px;
+  color: #666;
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
