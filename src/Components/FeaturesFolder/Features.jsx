@@ -8,19 +8,19 @@ import './Features.css'
 
 const features = [
   {
-    icon: { fIcon1 },
+    icon: fIcon1,
     title: 'Global Accessibility',
     description:
       'Effortlessly send tuition and other payments to educational institutions worldwide, no matter where you are.',
   },
   {
-    icon: { fIcon2 },
+    icon: fIcon2,
     title: 'Fast & Reliable Transactions',
     description:
       'Ensure your payments are processed quickly, helping you meet important deadlines without stress.',
   },
   {
-    icon: { fIcon3 },
+    icon: fIcon3,
     title: 'Secure & Transparent',
     description:
       'Enjoy peace of mind with secure payment processing and complete transparency on fees and conversion rates.',
